@@ -1,0 +1,24 @@
+{
+
+"register":{
+  "kompotBtn": "Kompot ERP",
+  "title": "Create an Account",
+  "placeholderFN": "First Name",
+  "placeholderLN": "Last Name",
+  "placeholderEmail": "Email",
+  "placeholderPassword": "Password",
+  "lockIcon": "[data-icon='lock']",
+  "labelTermsAgreements": "I have readTerms and agreements",
+  "unchecked": "ant-checkbox-checked",
+  "alreadyHaveAccount": "Already have an account? Just click Log in.",
+  "urlRegister": "http://localhost:8000/user/register",
+  "urlHome": "http://localhost:8000/",
+  "urlLogin": "http://localhost:8000/user/login",
+  "checked": "ant-checkbox-checked",
+  "redBorder": "rgb(255, 120, 117)",
+  "errorMessageReq": "Required",
+  "redErrorMessage": "rgb(255, 77, 79)",
+  "errorMessageFirstName": "Numbers and special characters are not allowed"
+}
+
+}

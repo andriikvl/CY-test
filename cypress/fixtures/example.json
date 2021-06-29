@@ -1,0 +1,10 @@
+{
+  "validData": {
+    "firstNameUpperLowerCase": "Andrii"
+  },
+  "invalidData": {
+    "firstNameNumbers": 1992
+
+  }
+
+}
